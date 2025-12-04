@@ -9,9 +9,8 @@ redirect_from:
 
 ## About Me
 
-I am deeply engaged in the study of Artificial Intelligence, with a particular focus on natural language processing, computer vision, and multimodal learning. I am driven by the challenge of designing systems that can interpret complex text, analyze visual data, and integrate information across these different modalities. My work primarily involves large language models, transformer architectures, and deep neural networks. I also explore representation learning and generative modeling to improve how machines perceive and reason about the world.
-
-This interest is supported by a solid foundation in core Computer Science. This foundation enables me to approach AI research with a practical engineering perspective, ensuring that theoretical concepts can be translated into efficient and scalable systems. My long term goal is to bridge the gap between academic research and practical application, developing AI technologies that are beneficial for real world use.
+Computer Vision, Natural Language Processing and Artificial Intelligence are at the core of my academic and research pursuits. My work focuses on developing systems that advance machine understanding of language and visual data, building intelligent solutions that can process text, recognize images, and interpret complex visual scenes through deep learning approaches.
+Large language models, image recognition, and multilingual AI systems represent key areas of exploration in my research. The ultimate aim is to create accessible and scalable technology that addresses real world challenges and contributes to making the world a better place.
 
 
 ## Research Interests
@@ -20,11 +19,11 @@ My research interests are several key areas within Natural Language Processing a
 
 - **Deep Learning**
 - **Neural Networks**
-- **Natural Language Processing (NLP)**
-- **Generative AI**
-- **Large Language Models (LLMs)**
-- **Responsible and Ethical AI**
 - **Computer Vision**
+- **Natural Language Processing (NLP)**
+- **Large Language Models (LLMs)**
+- **Generative AI**
+- **Responsible and Ethical AI**
 - **Multimodal Learning**
 
 ---
