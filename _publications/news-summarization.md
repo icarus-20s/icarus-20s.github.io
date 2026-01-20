@@ -11,7 +11,7 @@ authors:
 excerpt: 'This paper explores abstractive text summarization using the transformer-based BART-Large model to generate concise, newly constructed summaries of news articles.'
 date: 2025-11-30
 venue: 'pecj'
-paperurl: ''
+paperurl: 'https://doi.org/10.13140/RG.2.2.17314.49601'
 citation: 'K C, M. B., Kaundinya, A. S., Adhikari, P., & Adhikari, S. (2025). &quot;Abstractive Summarization of News Articles Using BART.&quot; <i>(preprint)</i>.'
 ---
 

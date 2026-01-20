@@ -9,9 +9,9 @@ redirect_from:
 
 ## About Me
 
-Computer Vision, Natural Language Processing and Artificial Intelligence are at the core of my academic and research pursuits. My work focuses on developing systems that advance machine understanding of language and visual data, building intelligent solutions that can process text, recognize images, and interpret complex visual scenes through deep learning approaches.
+I'm broadly interested in how machines can learn to see and understand the world. My work sits at the intersection of computer vision, natural language processing, and artificial intelligence. I build systems that can read and reason about text, recognize objects and scenes in images, and connect what they "see" with what they "read," mainly using deep learning methods.
 
-Large language models, image recognition, and multilingual AI systems represent key areas of exploration in my research. The ultimate aim is to create accessible and scalable technology that addresses real world challenges and contributes to making the world a better place.
+Lately, I've been focusing on large language models, image recognition, and multilingual AI systems. A big part of my motivation is making sure these technologies are not just impressive in theory, but actually useful and accessible in practice, scalable tools that help address real-world problems and can be used by people from different backgrounds and regions.
 
 
 ## Research Interests
