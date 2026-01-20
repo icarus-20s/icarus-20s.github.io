@@ -1,8 +1,8 @@
 ---
 title: "An In-Browser Proctoring System Using YOLO-Based Object Detection and Gaze Analysis"
 collection: publications
-category: journal
-permalink: /publication/in-browser-proctoring-system
+category: manuscripts
+permalink: /publication/in-browser-proctoring-system/
 authors:
   - name: 'Ayush Sharma Kaundinya'
   - name: 'Pramish Adhikari'
