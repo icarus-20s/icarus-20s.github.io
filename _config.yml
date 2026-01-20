@@ -12,8 +12,8 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Ayush Sharma Kaundinya"
 title_separator          : "-"
 name                     : &name "Ayush Sharma Kaundinya"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://icarus-20s.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Computer Engineering student with experience in Python backend development and AI-based solutions."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://ayushsk.com.np # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "icarus-20s/icarus-20s.github.io"
@@ -30,7 +30,7 @@ author:
   location         : "Nepal"
   employer         : "Gandaki College of Engineering and Science, Pokhara University"
   uri              : "https://ayushsk.com.np/"
-  email            : "ayushask.2002@gmail.com" 
+  email            : "ayushsharmakaundinya@gmail.com" 
 
   # Academic websites
   academia         : # URL
