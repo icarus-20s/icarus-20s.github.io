@@ -18,11 +18,3 @@ Awarded first place in the coding competition held during the IT Expo at GCES, d
 **IT Expo, GCES** - **2023**
 
 Showcased a real-time AI-based emotion detection system using DeepFace and computer vision at the GCES IT Expo.
-
----
-
-### Project Showcase
-* **Facial Emotion Detection System** 
- Real-time emotion recognition using DeepFace library. Presented at IT Expo.
-
----
