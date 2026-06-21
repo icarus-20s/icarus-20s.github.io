@@ -1,0 +1,182 @@
+{
+    "basics": {
+        "name": "Ayush Sharma Kaundinya",
+        "email": "ayushask.2002@gmail.com",
+        "phone": "+977 9842916508",
+        "website": "https://icarus-20s.github.io/",
+        "summary": "Software Engineer with 3+ years of hands-on experience in full-stack development and applied AI. Built and shipped production systems for real clients, working on REST APIs, database design, backend systems, computer vision, and NLP-based projects. Published researcher in object detection and transformer-based text summarization.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "",
+            "countryCode": "",
+            "region": "Nepal"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "Ayush Sharma",
+                "url": "https://www.linkedin.com/in/ayush-sharma-54baa0265/"
+            },
+            {
+                "network": "GitHub",
+                "username": "icarus-20s",
+                "url": "https://github.com/icarus-20s"
+            }
+        ]
+    },
+  "work": [
+    {
+      "company": "Giga Infosoft Pvt. Ltd.",
+      "position": "Software Engineer",
+      "startDate": "2024-07-01",
+      "endDate": "2026-03-01",
+      "summary": "Full ownership of the company's web applications across frontend, backend, and database layers. Worked directly with clients to gather requirements and deliver solutions on schedule.",
+      "highlights": [
+        "Reduced bug backlog by approximately 40% through systematic refactoring and code review",
+        "Maintained a 100% on-time delivery rate across multiple client projects",
+        "Designed and integrated REST APIs with third-party services, cutting manual data-handling time for clients by roughly 60%",
+        "Engineered and deployed 6 live institutional web portals for schools and organizations using Python, FastAPI, Django DRF, Next.js, and ReactJS"
+      ]
+    },
+    {
+      "company": "FlintIT (Startup)",
+      "position": "Co-Founder & Founding Engineer",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-01",
+      "summary": "Co-founded the startup and worked on technical decisions including system design, deployment, and client delivery.",
+      "highlights": [
+        "Built AI-powered web applications with features like text analysis, image recognition, and data processing to solve client needs",
+        "Handled client communication and delivery from start to finish without a dedicated project manager"
+      ]
+    },
+    {
+      "company": "Freelance",
+      "position": "Freelance Software Engineer",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-01",
+      "summary": "Built full-stack web applications for clients, working on frontend, backend, and database systems.",
+      "highlights": [
+        "Integrated databases and third-party services to deliver complete, working applications",
+        "Added basic machine learning features like text classification and image-based processing in web applications"
+      ]
+    }
+  ],
+    "education": [
+        {
+            "institution": "Gandaki College of Engineering and Science",
+            "area": "Computer Engineering",
+            "studyType": "Bachelor",
+            "startDate": "2021",
+            "endDate": "2025",
+            "gpa": "2.84",
+            "courses": [
+                "Artificial Intelligence",
+                "Natural Language Processing",
+                "Simulation and Modeling",
+                "Data Mining",
+                "Digital Signal Processing and Analysis",
+                "Cloud Computing",
+                "Theory of Computing",
+                "Probability",
+                "Numerical Methods"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming Languages",
+            "keywords": ["Python", "JavaScript", "SQL", "C++", "Go"]
+        },
+        {
+            "name": "AI / ML",
+            "keywords": ["PyTorch", "TensorFlow", "Scikit-Learn", "HuggingFace Transformers", "YOLOv8", "DeepFace", "NLTK", "LLM RAG", "pandas", "NumPy"]
+        },
+        {
+            "name": "Frameworks",
+            "keywords": ["Django", "FastAPI", "ReactJS", "Next.js", "Redux", "Tailwind CSS"]
+        },
+        {
+            "name": "Tools and Infrastructure",
+            "keywords": ["Docker", "Git", "GitHub Actions", "Redis", "PostgreSQL", "Linux", "Bash"]
+        },
+        {
+            "name": "Soft Skills",
+            "keywords": ["Client communication", "Technical ownership", "Independent problem solving", "Cross-functional collaboration"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Fluent"
+        },
+        {
+            "language": "Nepali",
+            "fluency": "Native"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Deep Learning"
+        },
+        {
+            "name": "Natural Language Processing"
+        },
+        {
+            "name": "Computer Vision"
+        },
+        {
+            "name": "Large Language Models"
+        },
+        {
+            "name": "Generative AI"
+        },
+        {
+            "name": "Multimodal Learning"
+        }
+    ],
+    "references": [],
+    "publications": [
+        {
+            "name": "An In-Browser Proctoring System Using YOLO-Based Object Detection and Gaze Analysis",
+            "publisher": "Journal of Artificial Intelligence and Capsule Networks",
+            "releaseDate": "2025",
+            "website": "https://doi.org/10.36548/jaicn.2025.4.005"
+        },
+        {
+            "name": "Abstractive Summarization of News Articles Using BART",
+            "publisher": "Pokhara Engineering College Journal",
+            "releaseDate": "2025",
+            "website": "https://doi.org/10.13140/RG.2.2.17314.49601"
+        }
+    ],
+    "presentations": [],
+    "teaching": [],
+    "portfolio": [
+        {
+            "name": "InBrowser Proctoring System",
+            "description": "Browser-based exam monitoring with YOLOv8 object detection and gaze analysis",
+            "url": "https://github.com/icarus-20s/eproctor"
+        },
+        {
+            "name": "News Summarization using BART",
+            "description": "Fine-tuned BART transformer on 300k+ articles for abstractive summarization",
+            "url": "https://github.com/icarus-20s/news-summarization-using-bart"
+        },
+        {
+            "name": "Facial Emotion Detection",
+            "description": "Real-time system classifying 7 facial expressions using DeepFace",
+            "url": "https://github.com/icarus-20s/emotion_app"
+        },
+        {
+            "name": "Question Paper Builder",
+            "description": "Desktop tool for composing exam question papers using Qt Framework",
+            "url": "https://github.com/icarus-20s/paper-build"
+        },
+        {
+            "name": "College Management System",
+            "description": "Academic platform managing enrollment, attendance, and grades for 500+ students",
+            "url": "https://github.com/icarus-20s/College_Management"
+        }
+    ]
+}
