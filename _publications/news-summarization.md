@@ -1,7 +1,7 @@
 ---
 title: "Abstractive Summarization of News Articles Using BART"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/news-summarization
 authors:
   - name: 'Mohan Bikram K C'
@@ -11,7 +11,7 @@ authors:
 excerpt: 'This paper explores abstractive text summarization using the transformer-based BART-Large model to generate concise, newly constructed summaries of news articles.'
 date: 2025-11-30
 venue: 'Pokhara Engineering College Journal'
-paperurl: 'https://doi.org/10.13140/RG.2.2.17314.49601'
+paperurl: 'https://doi.org/10.3126/pecj.v3i1.93538'
 citation: 'K C, M. B., Kaundinya, A. S., Adhikari, P., & Adhikari, S. (2025). &quot;Abstractive Summarization of News Articles Using BART.&quot; <i>Pokhara Engineering College Journal</i>.'
 ---
 

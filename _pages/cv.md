@@ -16,14 +16,16 @@ Education
 Experience
 ======
 
-* July 2024 - March 2026: Software Engineer
+* July 2025 - July 2026: AI Engineer
   * Giga Infosoft Pvt. Ltd.
-  * Duties included: Full ownership of web applications across frontend, backend, and database layers; Reduced bug backlog by ~40% through systematic refactoring; Designed and integrated REST APIs with third-party services, cutting manual data-handling time by ~60%; Engineered and deployed 6 live institutional web portals for schools and organizations using Python, FastAPI, Django DRF, Next.js, and ReactJS
+  * Kathmandu, Nepal
+  * Duties included: Contributed to the design, development, and implementation of Artificial Intelligence and Machine Learning solutions for various software projects; Prepared and processed datasets, developed and evaluated machine learning models, and supported the integration of AI solutions into software applications; Worked closely with the engineering team on testing, troubleshooting, and documenting AI-enabled software systems while contributing to project requirements and implementation
 
-* January 2023 - December 2023: Co-Founder & Founding Engineer
-  * FlintIT (Startup)
-  * Duties included: Co-founded startup handling system design, deployment, and client delivery; Built AI-powered web applications with text analysis, image recognition, and data processing features; Managed end-to-end client communication and delivery
-
+* May 2024 - June 2025: Django Developer
+  * DÈs Vu Technologies Pvt. Ltd.
+  * Pokhara, Nepal
+  * Duties included: Developed and maintained scalable web applications using Django and Django REST Framework, implementing robust backend architectures and RESTful APIs for production systems; Designed and optimized PostgreSQL database schemas, improving query performance and ensuring reliable data management across multiple client projects; Collaborated with frontend developers to integrate APIs, troubleshoot issues, and deliver feature enhancements while maintaining code quality through testing and code reviews
+  
 * June 2022 - August 2024: Participating Member
   * GCES IT Club
   * Duties included: Attended workshops, Collaborated on AI projects, Participated in club activities and technical events
